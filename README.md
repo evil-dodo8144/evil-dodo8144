@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagnik Chakraborty</h1>
 <h3 align="center">A passionate frontend developer from India persuing B.TECH from MCKV Institute for Engineering in Computer Science specialized in Artificial Intelligence(AI) and Machine Learning(ML)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evil-dodo8144&label=Profile%20views&color=0e75b6&style=flat" alt="evil-dodo8144" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=evil-dodo8144&label=Profile%20views&color=b4370e&style=plastic" alt="evil-dodo8144" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evil-dodo8144" alt="evil-dodo8144" /></a> </p>
 
@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evil-dodo8144&show_icons=true&locale=en&layout=compact" alt="evil-dodo8144" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evil-dodo8144&show_icons=true&locale=en" alt="evil-dodo8144" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evil-dodo8144&show_icons=true&theme=tokyonight&locale=en" alt="evil-dodo8144" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evil-dodo8144&" alt="evil-dodo8144" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evil-dodo8144&theme=dark" alt="evil-dodo8144" /></p>
