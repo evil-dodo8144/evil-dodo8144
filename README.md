@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I am Sagnik Chakraborty , B.Tech 3rd year student from MCKV Institute of Engineering <br>🔭 I’m currently working on backend in python using django framework and focusing on deep learning as well<br>🌱 I’m currently learning django and dart<br>
+# 💫 HI , I am Sagnik Chakraborty
+B.Tech 3rd year student from MCKV Institute of Engineering <br>🔭 I’m currently working on backend in python using django framework and focusing on deep learning as well<br>🌱 I’m currently learning django and dart<br>
 
 
 ## 🌐 Socials:
